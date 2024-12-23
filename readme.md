@@ -1,13 +1,13 @@
 <span style="font-family: monospace">
-<summary><h1 align="center" style="line-height:20px;">Hi, I'm Ilya</h1></summary>
-<summary><h6 align="center" style="line-height:0px; margin: 0 0 8px;">a python developer</h6></summary>
-<summary><h6 align="center" style="font-size: 7px">3 years of python development experience</h6></summary>
+<h1 align="center" style="line-height:20px;">Hi, I'm Ilya</h1>
+<h6 align="center" style="line-height:0px; margin: 0 0 8px;">a python developer</h6>
+<h6 align="center" style="font-size: 7px">3 years of python development experience</h6>
 
 ## Current Project:
 
 <h4 align="left">
 <a href="https://github.com/IlyaR31/Pyterm" style="text-decoration: none">
-<pre style="font-size: 3px; line-height:1; overflow-y:none; max-width: 154px; height: 35px; border: 0px; padding:0px; white-space: pre-wrap; word-break: break-word; background: none;">
+<pre  style="font-size: 3px; line-height:1; overflow-y:none; max-width: 154px; height: 35px; border: 0px; padding:0px; white-space: pre-wrap; word-break: break-word; background: none;">
  ███████████             ███████████                                   
 ░░███░░░░░███           ░█░░░███░░░█                                   
  ░███    ░███ █████ ████░   ░███  ░   ██████  ████████  █████████████  

@@ -1,0 +1,13 @@
+pre {
+    ont-size: 3px;
+    line-height:1;
+    overflow-y:none;
+    max-width: 154px;
+    height: 35px;
+    border: 0px;
+    padding:0px;
+    white-space: pre-wrap;
+    word-break: break-word;
+    background: none;
+    font-family: monospace;
+}
