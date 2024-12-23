@@ -39,9 +39,9 @@ This is a python module that allows you to create games in the console.
         <img align="center" src="https://cdn.simpleicons.org/cplusplus/fff/000" alt="Node" width=80>
         <img align="center" src="https://cdn.simpleicons.org/python/fff/000" alt="Node" width=80>
     </p>
-    <h6 style="font-size: 7.5px">
+    <p style="font-size: 7.5px">
         Currently learning
-    </h6>
+    </p>
 </h2>
 
 
